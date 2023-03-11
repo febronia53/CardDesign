@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_raduis">8dp</dimen>
+
+
+    <dimen name="large_margin">16dp</dimen>
+    <dimen name="midum_margin">12dp</dimen>
+    <dimen name="normal_margin">8dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+
+
+    <dimen name="large_text_size">16sp</dimen>
+    <dimen name="meduim_text_size">13sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+
+
+</resources>

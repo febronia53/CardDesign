@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CardDesign</string>
+    <string name="user_name">Ahemd Hassan</string>
+    <string name="job">Engineer</string>
+    <string name="destnation">UK</string>
+    <string name="time">3 hr</string>
+    <string name="nationality">Russian</string>
+    <string name="duration">5 Days ago</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="rating">4.5</string>
+</resources>
