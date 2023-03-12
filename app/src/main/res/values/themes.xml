@@ -30,7 +30,7 @@
     </style>
 
     <style name="destnation">
-        <item name="android:textSize">@dimen/meduim_text_size</item>
+        <item name="android:textSize">@dimen/small_text_size</item>
         <item name="android:textColor">@color/light_gray</item>
         <item name="fontFamily">@font/dm_sans_medium</item>
         <item name="android:textFontWeight">400</item>
